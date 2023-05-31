@@ -1,0 +1,29 @@
+.pie-pagina{
+    border: 2px solid black;
+    margin: 20px;
+    padding: 10px 30px;
+}
+#parrafo1{
+    font-size: 20px;
+    color: green;
+    border: 1px solid black;
+}
+#comentario1 {
+    font-size: 25px;
+    text-align: right;
+}
+p, h1, li{
+    color: red;
+}
+hgroup h2{
+    color: blue;
+}
+article>p{
+font-size: 5px;
+}
+img+p{
+    border: 5px dashed black;
+}
+li:nth-child(2){
+    font-size: 40px;
+}
